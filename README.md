@@ -48,7 +48,7 @@ objets dont il ne se sert pas régulièrement.
 
 ![image](https://github.com/kbenjilalietu/JeLoue/assets/81255636/8245afa0-f3a3-4073-8279-2deffb83b37e)
 
-**-Interface informations sur de bien à louer** 
+**- Interface informations sur de bien à louer** 
 
 ![image](https://github.com/kbenjilalietu/JeLoue/assets/81255636/f71e5ea0-c0bd-49f1-9275-544d7237e2d5)
 
